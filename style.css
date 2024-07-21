@@ -158,6 +158,10 @@ body {
     font-weight: 600;
 }
 
+audio {
+display: flex;
+  position: fixed;
+}
 
 @media (max-width: 675px) {
   .envelope {
